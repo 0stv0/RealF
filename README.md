@@ -4,12 +4,11 @@
 <h1 align="center">RealF</h1>
 <p align="center">FiveM Real-Time roleplay framework project.</p>
 <br>
-<p>About:</p>
+<h3>About:</h3>
 <ul>
   <li>A framework created on the basis of constant work between the server and the database. The moment we change something in the database table, the effects will be immediately visible in the game.</li>
 </ul>
-<br>
-<p>Core Dependencies:</p>
+<h3>Core Dependencies:</h3>
 <ul>
   <li>ox_lib</li>
   <li>oxmysql</li>
