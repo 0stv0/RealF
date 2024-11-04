@@ -3,3 +3,15 @@
 </p>
 <h1 align="center">RealF</h1>
 <p align="center">FiveM Real-Time roleplay framework project.</p>
+<br>
+<p>About:</p>
+<ul>
+  <li>line 1</li>
+</ul>
+<br>
+<p>Core Dependencies:</p>
+<ul>
+  <li>line 1</li>
+  <li>line 2</li>
+  <li>line 3</li>
+</ul>
