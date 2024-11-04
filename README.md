@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="100" height="100" src="https://media.discordapp.net/attachments/797836843936645160/1303026147407298600/realf-logo.png?ex=672a412a&is=6728efaa&hm=29ef59983625362b1deb6d539eb144b9f9540a7f97cdb80431caf2e59b7e935a&=&format=webp&quality=lossless">
+<img align="center" width="170" height="170" src="https://media.discordapp.net/attachments/797836843936645160/1303026147407298600/realf-logo.png?ex=672a412a&is=6728efaa&hm=29ef59983625362b1deb6d539eb144b9f9540a7f97cdb80431caf2e59b7e935a&=&format=webp&quality=lossless">
 </p>
 <h1 align="center">RealF</h1>
 <p align="center">FiveM Real-Time roleplay framework project.</p>
@@ -22,5 +22,5 @@
 </ol>
 <h1 align="center">Documentation</h1>
 <h1 align="center">
-  <img align="center" width="100" height="100" src="https://media.discordapp.net/attachments/797836843936645160/1303033675151048806/rf-docs.png?ex=672a482d&is=6728f6ad&hm=ea0fde22f5b86c3e11ecd5638a2745e782dbc34a252d854cb2f0b72eb48b6d37&=&format=webp&quality=lossless">
+  <img align="center" src="https://media.discordapp.net/attachments/797836843936645160/1303033675151048806/rf-docs.png?ex=672a482d&is=6728f6ad&hm=ea0fde22f5b86c3e11ecd5638a2745e782dbc34a252d854cb2f0b72eb48b6d37&=&format=webp&quality=lossless">
 </h1>
