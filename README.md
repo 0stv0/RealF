@@ -18,7 +18,7 @@
 <br>
 <h1 align="center">Installation</h1>
 <ol>
-  <li>Download and add to your server all dependencies,</li>
-  <li>oxmysql</li>
-  <li>fivem-appearance</li>
+  <li>Download and add to your server all dependencies</li>
+  <li>Download RealF script from this repo and add to your server (All scripts are Plug&Play),</li>
+  <li>Restart server.</li>
 </ol>
