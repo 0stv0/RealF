@@ -11,7 +11,7 @@
 <br>
 <p>Core Dependencies:</p>
 <ul>
-  <li>line 1</li>
-  <li>line 2</li>
-  <li>line 3</li>
+  <li>ox_lib</li>
+  <li>oxmysql</li>
+  <li>fivem-appearance</li>
 </ul>
