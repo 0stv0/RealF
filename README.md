@@ -22,5 +22,5 @@
 </ol>
 <h1 align="center">Documentation</h1>
 <h1 align="center">
-  <img align="center" src="https://media.discordapp.net/attachments/797836843936645160/1303033675151048806/rf-docs.png?ex=672a482d&is=6728f6ad&hm=ea0fde22f5b86c3e11ecd5638a2745e782dbc34a252d854cb2f0b72eb48b6d37&=&format=webp&quality=lossless">
+  <img align="center" height="200" src="https://media.discordapp.net/attachments/797836843936645160/1303033675151048806/rf-docs.png?ex=672a482d&is=6728f6ad&hm=ea0fde22f5b86c3e11ecd5638a2745e782dbc34a252d854cb2f0b72eb48b6d37&=&format=webp&quality=lossless">
 </h1>
