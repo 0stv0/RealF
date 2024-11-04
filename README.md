@@ -4,7 +4,7 @@
 <br>
 
 <h1 align="center">
-# RealF
+RealF
 </h1>
 <p align="center">FiveM Real-Time roleplay framework project.
 </p>
