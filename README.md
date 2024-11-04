@@ -6,7 +6,7 @@
 <br>
 <p>About:</p>
 <ul>
-  <li>line 1</li>
+  <li>A framework created on the basis of constant work between the server and the database. The moment we change something in the database table, the effects will be immediately visible in the game.</li>
 </ul>
 <br>
 <p>Core Dependencies:</p>
