@@ -16,7 +16,7 @@
   <li>fivem-appearance</li>
 </ul>
 <br>
-<h1 align="center">Installation:</h1>
+<h1 align="center">Installation</h1>
 <ul>
   <li>ox_lib</li>
   <li>oxmysql</li>
