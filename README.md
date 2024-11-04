@@ -22,5 +22,5 @@
 </ol>
 <h1 align="center">Documentation</h1>
 <h1 align="center">
-  <img align="center" height="120" src="https://media.discordapp.net/attachments/797836843936645160/1303033675151048806/rf-docs.png?ex=672a482d&is=6728f6ad&hm=ea0fde22f5b86c3e11ecd5638a2745e782dbc34a252d854cb2f0b72eb48b6d37&=&format=webp&quality=lossless">
+  <a href="https://stevku.gitbook.io/stevkus-workshop/stevku_pagers/shared-translate.lua"><img align="center" height="120" src="https://media.discordapp.net/attachments/797836843936645160/1303033675151048806/rf-docs.png?ex=672a482d&is=6728f6ad&hm=ea0fde22f5b86c3e11ecd5638a2745e782dbc34a252d854cb2f0b72eb48b6d37&=&format=webp&quality=lossless"></a>
 </h1>
