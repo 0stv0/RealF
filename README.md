@@ -17,8 +17,8 @@
 </ul>
 <br>
 <h1 align="center">Installation</h1>
-<ul>
-  <li>ox_lib</li>
+<ol>
+  <li>Download and add to your server all dependencies,</li>
   <li>oxmysql</li>
   <li>fivem-appearance</li>
-</ul>
+</ol>
